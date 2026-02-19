@@ -1,5 +1,5 @@
 ﻿using System;
-using exerccios.exercicios.NewFolder;
+using exerccios.exercicios.parte1;
 
 namespace exerccios
 {
