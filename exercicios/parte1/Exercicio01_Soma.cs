@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace exerccios.Exercicios
+namespace exerccios.exercicios.parte1
 {
     public static class Exercicio01_Soma
     {

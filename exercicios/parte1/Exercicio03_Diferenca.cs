@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exerccios.exercicios
+namespace exerccios.exercicios.parte1
 {
     public static class Exercicio03_Diferenca
     {
